@@ -1,88 +1,91 @@
-# Web3 Community Growth & Engagement Analytics
+Web3 Community Growth & Engagement Analytics
+Overview
 
-## Project Overview
+Developed an end-to-end analytics solution to evaluate Web3 community growth, user engagement, wallet adoption, and campaign effectiveness. Built a multi-page Power BI dashboard supported by SQL analysis and Python-based data exploration to uncover actionable insights for community and marketing teams.
 
-This project analyzes community growth, user engagement, wallet adoption, and campaign performance across a Web3 ecosystem.
+Business Objectives
+Measure community growth across acquisition channels
+Analyze user engagement behavior and activity patterns
+Evaluate wallet adoption across the community
+Assess campaign participation and investment effectiveness
+Identify high-performing campaigns and engagement drivers
+Tools & Technologies
+SQL
+Python (Pandas, NumPy, Matplotlib)
+Power BI
+Excel
+Dataset
 
-Using SQL, Python, Excel, and Power BI, the dashboard provides insights into acquisition channels, engagement trends, wallet adoption behavior, and campaign effectiveness.
+The project includes:
 
----
+Users Dataset
+Activities Dataset
+Campaigns Dataset
+User-Campaign Mapping Dataset
 
-## Tools Used
+Total records analyzed: 5,000+ community users and engagement activities.
 
-- SQL
-- Python
-- Excel
-- Power BI
+Dashboard Structure
+Page 1 — Executive Overview
 
----
+KPIs:
 
-## Business Objectives
+Total Users
+Total Activities
+Total Campaigns
+Wallet Adoption %
+Average Points Earned
 
-- Analyze community growth performance
-- Measure engagement and participation
-- Track wallet adoption trends
-- Evaluate campaign effectiveness
-- Support data-driven growth decisions
+Insights:
 
----
+Community acquisition channels
+Geographic distribution
+Wallet adoption trends
+Community growth timeline
+Page 2 — Community Engagement Analytics
 
-## Dashboard Pages
+KPIs:
 
-### Executive Overview
+Average Activities per User
+Average Points per User
 
-- Total Users
-- Total Activities
-- Total Campaigns
-- Wallet Adoption %
-- User Growth Trends
+Analysis:
 
-### Community Engagement Analytics
+Activities by Type
+Points Earned by Activity Type
+Top Active Users
+Monthly Engagement Trend
+Page 3 — Campaign Performance Analytics
 
-- Average Activities per User
-- Average Points per User
-- Activities by Type
-- Top Active Users
-- Monthly Engagement Trends
+KPIs:
 
-### Campaign Performance Analytics
+Total Campaign Spend
+Average Campaign Spend
+Average Points Generated
+Top Performing Campaign
 
-- Total Campaign Spend
-- Average Campaign Spend
-- Average Points Generated
-- Campaign Participation Analysis
-- Campaign Budget Allocation
+Analysis:
 
----
-
-## Dashboard Preview
-
-### Executive Overview
-
-![Executive Overview](Screenshots/Executive_Overview.png)
-
-### Community Engagement Analytics
-
-![Community Engagement](Screenshots/Community_Engagement.png)
-
-### Campaign Performance Analytics
-
-![Campaign Performance](Screenshots/Campaign_Performance.png)
-
----
-
-## Key Insights
-
-- Wallet adoption exceeded 70% of total users.
-- Referral and social channels contributed significantly to community growth.
-- User engagement remained consistent across activity types.
-- High-investment campaigns generated stronger participation levels.
-- Campaign budgets were concentrated among strategic growth initiatives.
-
----
-
-## Author
-
-Diya Kharat
-
-Aspiring Data Analyst
+Campaign Spend Distribution
+Campaign Participation Share
+Campaign Investment Analysis
+Campaign Performance Comparison
+Key Findings
+Referral programs generated the highest community participation.
+Wallet adoption exceeded 70% of total users.
+User engagement remained stable throughout the observed period.
+Campaign performance varied significantly across initiatives.
+A small group of campaigns contributed a disproportionate share of total engagement.
+Skills Demonstrated
+Data Cleaning & Transformation
+SQL Querying
+Exploratory Data Analysis (EDA)
+KPI Development
+Data Visualization
+Dashboard Design
+Business Intelligence Reporting
+Stakeholder-Focused Analytics
+Project Screenshots
+<img width="4367" height="4213" alt="Web3_Community_Growth_Engagement_Analytics-3" src="https://github.com/user-attachments/assets/69da1829-10d1-4ea2-9fd4-3720e2b0b21d" />
+<img width="4150" height="3901" alt="Web3_Community_Growth_Engagement_Analytics-2" src="https://github.com/user-attachments/assets/16ac12dd-7347-448f-871e-b717c5e63575" />
+<img width="4213" height="4525" alt="Web3_Community_Growth_Engagement_Analytics-1" src="https://github.com/user-attachments/assets/def5d06d-fee7-44b1-9dd9-a8064cebbcd3" />
